@@ -1,0 +1,8 @@
+https://github.com/w3tecch/express-typescript-boilerplate.git
+https://github.com/greenroach/express-ts-template.git
+https://github.com/saddamarbaa/node-express-mongodb-typescript-ecom-social-rest-api.git
+https://github.com/bhimrazy/express-blog-api.git
+https://github.com/ahmetozydn/typescript-crud.git
+https://github.com/OmiSoftNet/omisoft-blog-template-back.git
+https://github.com/techreagan/NodeJS-and-ExpressJS-with-MongoDB-Boilerplate.git
+https://github.com/Kkwagh-Coders/interview-experience-server.git
