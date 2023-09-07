@@ -1,0 +1,6 @@
+Proficiency in React, TypeScript and NodeJS.
+I use Airbnb guidelines for React and CSS.
+
+
+#####
+Familiarity with Figma for design, GitHub for code management, and Notion for documentation.
