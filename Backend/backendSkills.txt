@@ -1,0 +1,18 @@
+We are a startup based in Europe looking to shake up the property industry!
+
+We are looking for an innovative backend developer to implement systems architecture that will meet business needs. The solution architect’s responsibilities include gathering requirements and functional specifications, assessing the current software systems in place in order to identify areas in need of improvement, and overseeing development teams. You should also be able to regularly update the company on any developments in systems architecture projects.
+
+To be successful as a solution architect, you should be able to integrate any updated specifications and requirements into the systems architecture. An outstanding solution architect should be able to explain complex problems to management in layman’s terms.
+
+Backend Developer (Solution Architect) Responsibilities:
+
+- Responsible for deployment, delivery and CI/CD pipelines of the company
+- Develop, manage and update API endpoints
+- Expert knowledge of Node JS
+- Manage System Architecture including database
+- Managing AWS
+- Building and integrating information systems to meet the company’s needs.
+- Assessing the systems architecture currently in place and working with technical staff to recommend solutions to improve it.
+- Audit system architecture in compliance with Regulatory
+- Requirement for scalability and security matters.
+- Resolving technical problems as they arise.

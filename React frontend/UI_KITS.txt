@@ -1,2 +1,5 @@
 https://coreui.io/react/
 https://reactflow.dev/
+https://ui.shadcn.com/
+RTK Query, React-Markdown, 
+storybook

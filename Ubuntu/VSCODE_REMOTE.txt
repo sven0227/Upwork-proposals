@@ -1,0 +1,34 @@
+Host infinity.marshallradio.com
+  HostName infinity.marshallradio.com
+  User debian
+
+Host MySSHServer
+  HostName 95.216.224.119
+  User root
+  PasswordAuthentication yes
+
+Host NewVPS
+  HostName 154.26.155.140
+  User root
+  PasswordAuthentication yes
+  Port 80
+
+Host FastVPS-2T/128G
+  HostName 95.217.76.162
+  User root
+  PasswordAuthentication yes
+
+Host FastVPS-1T/256G
+  HostName 135.181.213.142
+  User root
+  PasswordAuthentication yes
+
+Host 164.92.252.132
+  HostName 164.92.252.132
+  User root
+  IdentityFile D:/ssh/eric
+
+Host debian@infinitystaging.aerovision.app
+  HostName debian@infinitystaging.aerovision.app
+  User root
+  IdentityFile D:/ssh/marshal.priv.ppk
