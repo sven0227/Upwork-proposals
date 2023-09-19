@@ -1,2 +1,5 @@
 # ORM
 https://sequelize.org/
+
+# serverless
+FaunaDB

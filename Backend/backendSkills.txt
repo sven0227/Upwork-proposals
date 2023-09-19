@@ -16,3 +16,5 @@ Backend Developer (Solution Architect) Responsibilities:
 - Audit system architecture in compliance with Regulatory
 - Requirement for scalability and security matters.
 - Resolving technical problems as they arise.
+
+Cron job: Cron job tasks are handled using Node.js easycron, which assists in the scheduling and automation of recurring tasks.
