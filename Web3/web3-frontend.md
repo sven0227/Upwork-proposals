@@ -24,3 +24,5 @@ Thanks.
 Dimitrije.
 
 # full-stack
+
+tradingmachine.ai : crypto trading platform where users can deposit crypto and earn from AI trading machine. In this project there are two roles - user and sysAdmin. Admin can track all trading history of anyuser and control over it but users could only see his own profile.

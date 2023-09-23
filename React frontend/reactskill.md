@@ -38,3 +38,18 @@ Refactor frontend coding from old existing code base. Tech Stack: React Typescri
 # Hooks
 
 - React Hooks : https://react.dev/reference/react
+
+# PWA
+
+Technical Expertise:
+💡 3+ years of hands-on experience with React.
+💡 2+ years of expertise in TypeScript.
+💡 Strong know-how of GraphQL.
+💡 Deep familiarity with Tailwind CSS.
+
+Bonus Points for:
+🌟 Utilizing Storybook alongside Vite.
+🌟 Working with rxDB.
+🌟 Handling offline Sync processes.
+🌟 Navigating with Leaflet.
+🌟 Mastering Canvas Offscreen rendering paired with Leaflet.
