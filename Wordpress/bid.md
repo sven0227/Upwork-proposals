@@ -32,3 +32,8 @@ I have :
 My recent work is here:
 https://www.figma.com/file/TpdSUIkt2ITtrAtG7hxosn/Advanced-Dental?type=design&node-id=139-170&mode=design
 https://ad.dev-version.website/
+
+# other urls
+
+https://www.scribd.com
+https://www.chirpbooks.com

@@ -29,6 +29,7 @@ Refactor frontend coding from old existing code base. Tech Stack: React Typescri
 - ContextAPI :
 - React-Query : https://react-query-v3.tanstack.com/
 - Zustand : https://github.com/pmndrs/zustand
+- Jotai : https://jotai.org/
 
 # Styling
 

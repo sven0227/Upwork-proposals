@@ -2,6 +2,7 @@ https://coreui.io/react/
 https://reactflow.dev/
 https://ui.shadcn.com/
 https://www.telerik.com/kendo-ui
+https://headlessui.com/
 #File structure : https://ui.shadcn.com/docs/installation/next
 RTK Query, React-Markdown,
 storybook
