@@ -1,1 +1,2 @@
 https://github.com/danny-avila/LibreChat
+https://github.com/idurar/mern-admin

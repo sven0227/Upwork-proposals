@@ -19,3 +19,5 @@ https://firstlight.dev/
 
 https://drinklmnt.com/
 https://maurten.com
+https://us.princesspolly.com/
+https://voguepaws.com/products/vogue-parisian-custom-pet-poster

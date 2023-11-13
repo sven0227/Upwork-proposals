@@ -29,3 +29,7 @@ Certifications related to Azure or Kubernetes.
 Experience in video processing or related services.
 
 Draft of our architecture you can see in the attachment (any improvements are welcome).
+
+# urls
+
+- https://infinity.marshallradio.com/
