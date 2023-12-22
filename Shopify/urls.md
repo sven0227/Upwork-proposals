@@ -5,6 +5,7 @@ https://blue-bear-development.myshopify.com/ tawpro
 https://aa2eb2-3.myshopify.com/
 https://slimcase.vn/
 https://myrubyclub.com/
+http://4allfamily.com/
 
 # good site
 
@@ -21,3 +22,4 @@ https://drinklmnt.com/
 https://maurten.com
 https://us.princesspolly.com/
 https://voguepaws.com/products/vogue-parisian-custom-pet-poster
+https://gear-up.me/

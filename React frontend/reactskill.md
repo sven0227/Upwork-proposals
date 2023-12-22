@@ -54,3 +54,8 @@ Bonus Points for:
 🌟 Handling offline Sync processes.
 🌟 Navigating with Leaflet.
 🌟 Mastering Canvas Offscreen rendering paired with Leaflet.
+
+# Performance
+
+https://legacy.reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html#browsing-commits
+https://jotai.org/docs/guides/performance

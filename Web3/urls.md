@@ -11,6 +11,7 @@ https://magiceden.io/
 
 https://theheist.game/
 https://the-heist.gitbook.io/
+https://game.defikingdoms.com/
 
 # Trading
 

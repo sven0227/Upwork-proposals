@@ -33,3 +33,4 @@ Draft of our architecture you can see in the attachment (any improvements are we
 # urls
 
 - https://infinity.marshallradio.com/
+- https://quantqueen.com/

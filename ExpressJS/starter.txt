@@ -6,3 +6,19 @@ https://github.com/ahmetozydn/typescript-crud.git
 https://github.com/OmiSoftNet/omisoft-blog-template-back.git
 https://github.com/techreagan/NodeJS-and-ExpressJS-with-MongoDB-Boilerplate.git
 https://github.com/Kkwagh-Coders/interview-experience-server.git
+
+# typescript
+https://github.com/saisilinus/node-express-mongoose-typescript-boilerplate
+https://github.com/sunnysidelabs/mongoose-express-ts
+https://github.com/ahmadjoya/typescript-express-mongoose-starter
+
+# mysql typescript
+
+https://github.com/Louis3797/express-ts-auth-service
+https://github.com/Kuatsu/express-mysql-ts-boilerplate
+https://github.com/AntoninoBonanno/express-startup-project
+https://github.com/khant-min/E-commerce
+
+# mysql typescript orm
+https://github.com/Jandy-SeoulTech/Jandy_Web_Back
+
