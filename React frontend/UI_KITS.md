@@ -15,3 +15,5 @@ https://www.tremor.so/
 https://react.semantic-ui.com/elements/button/
 https://github.com/minimal-ui-kit/material-kit-react.git
 https://react-window.vercel.app/
+
+https://www.telerik.com/kendo-react-ui/components/getting-started/

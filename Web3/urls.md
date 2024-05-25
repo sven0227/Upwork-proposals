@@ -16,3 +16,7 @@ https://game.defikingdoms.com/
 # Trading
 
 https://ml4trading.io/
+
+# Magic wallet
+
+https://nft.advalorem.io/
