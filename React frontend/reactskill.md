@@ -59,3 +59,6 @@ Bonus Points for:
 
 https://legacy.reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html#browsing-commits
 https://jotai.org/docs/guides/performance
+
+# Https
+https://www.freecodecamp.org/news/how-to-set-up-https-locally-with-create-react-app/

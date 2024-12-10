@@ -1,0 +1,4 @@
+- CSRF protection
+- cloudfare zero protection
+- 2FA
+- route protection

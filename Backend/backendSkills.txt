@@ -18,3 +18,13 @@ Backend Developer (Solution Architect) Responsibilities:
 - Resolving technical problems as they arise.
 
 Cron job: Cron job tasks are handled using Node.js easycron, which assists in the scheduling and automation of recurring tasks.
+
+
+We need to implement a task scheduler for a Python backend with FastAPI using Celery with Redis as the broker, Celery Beat for recurring tasks, and PostgreSQL for persisting tasks, while hosting all components on an AWS Kubernetes cluster.
+
+Please, see attached specifications.
+Please, read very carefully, it has a lot of details. Make sure you are comfortable implementing all parts of the spec. Raise any issues right away if you are uncomfortable with any sub-tasks.
+
+This project is expected to take about 2 weeks. You should be able to work full-time on it during this period.
+
+Individual developers only. No sub-contracting.
